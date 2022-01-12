@@ -1,4 +1,4 @@
-const ㅇㅈㅇㅈㅇㅈㅇㅈ:ㅈㅂ:
+:const ㅇㅈㅇㅈㅇㅈㅇㅈ:ㅈㅂ:
 asdasd
 asdasdasd
 asdasdasdasd
